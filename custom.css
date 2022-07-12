@@ -1,0 +1,15 @@
+h1 {
+  font-family: Roboto Mono;
+}
+
+body {
+  background-color: #bdbdbd;
+}
+
+.navbar {
+  background-color: #424242;
+}
+
+.navbar-brand {
+  color: #039be5;
+}
